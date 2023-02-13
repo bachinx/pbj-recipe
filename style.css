@@ -1,0 +1,28 @@
+h1,
+h2 {
+  color: rgb(143, 85, 19);
+  font-family: "Garamond", Arial, sans-serif;
+}
+p {
+  text-indent: 50px;
+  font-size: 18px;
+}
+body {
+  font-family: "Garamond";
+  border: 2px solid black;
+  width: 500px;
+  margin: auto;
+  background-color: rgb(251, 250, 252);
+  padding: 80px;
+  border-radius: 200px;
+}
+html {
+  background-color: rgb(194, 181, 212);
+}
+a {
+  text-decoration: none;
+  color: palevioletred;
+}
+a:hover {
+  text-decoration: underline;
+}
